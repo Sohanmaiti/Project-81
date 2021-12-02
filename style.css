@@ -1,0 +1,11 @@
+body {
+    background-image: url("bg1.jpg");
+    height: 400px;
+}
+#mycanvas {
+    border-style: ridge;
+    background-color: white;
+}
+#Titl {
+    color: blue;
+}
